@@ -4,17 +4,17 @@
 
 let produtos = [
     {
-        nome: 'Kindle',
+        nome: 'kindle',
         preco: 1000,
         desconto: 10
     },
     {
-        nome: 'Notebook',
+        nome: 'notebook',
         preco: 3000,
         desconto: 5
     },
     {
-        nome: 'Tablet',
+        nome: 'tablet',
         preco: 1500,
         desconto: 7
     }
